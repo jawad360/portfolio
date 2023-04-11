@@ -29,7 +29,7 @@ export default function AuthorLayout({ children, frontMatter }) {
             <a
               href={companyLink}
               target="_blank"
-              className="text-gray-500 hover:text-gray-600 dark:text-gray-400"
+              className="text-gray-500 hover:text-gray-600 dark:text-gray-400 hover:dark:text-gray-300"
               rel="noreferrer"
             >
               @{company}
